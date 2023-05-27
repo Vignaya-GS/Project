@@ -8,7 +8,7 @@ Azure Link: https://kind-wave-0c4d65010.3.azurestaticapps.net
 
 Github Link: https://vignaya-gs.github.io/Project/
 
-Demo Video url link: https://youtu.be/m6F-YSprzJQ
+Project Demo Video link: https://youtu.be/m6F-YSprzJQ
 
 Azure Technologies used in this project:
 Static web apps, Health Bot
